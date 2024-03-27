@@ -13,7 +13,7 @@ def yes_no(question):
             print("please enter yes / no")
 
 
-def instructions():
+def instructions():z
     print('''
     
     **** Instructions ****
